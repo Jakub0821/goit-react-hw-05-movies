@@ -2,5 +2,5 @@
   "compilerOptions": {
     "baseUrl": "src"
   },
-  "include": ["src", "src/service/.jsx"]
+  "include": ["src", "src/services/.jsx"]
 }
