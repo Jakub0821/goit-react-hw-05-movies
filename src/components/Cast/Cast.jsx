@@ -38,3 +38,4 @@ export const Cast = () => {
         </section>
     )
 }
+export default Cast

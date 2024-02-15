@@ -40,3 +40,4 @@ export const Reviews = () => {
         </section>
     )
 }
+export default Reviews
